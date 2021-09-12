@@ -1,14 +1,17 @@
 # Coursework2.Adam: Professional Portfolio
 # Mockup Page:
-![1](https://user-images.githubusercontent.com/88220398/131945701-c2356641-7cc0-4ad9-8088-efbee299dc88.png)
+![screen-shot](https://user-images.githubusercontent.com/88220398/132966504-9fe60c39-b9bd-4e61-a32c-69439f9ad0c3.png)
 # Jobs Have Been Done:
-- Page title
+- Changed Page Title
 - Portfolio Personal Information
 - Avatar + About Me + Alt tag
 - Container Images + Alt tag
 - Style CSS
 - Pushed To Remote Repo
+- Rename Remote Repo To Unique
 - Update Readme File
+- Add New Large Image In Work Section
+- Added Links For Imges Of Work Section
 # Screen Shoots:
 ![1](https://user-images.githubusercontent.com/88220398/131943144-e3a66423-10f5-4b3f-8431-0e72f907ed8d.png)
 ![2](https://user-images.githubusercontent.com/88220398/131943150-5b4cd782-ae87-41de-a770-801235d7ea76.png)
