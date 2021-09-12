@@ -109,9 +109,6 @@ main {
   box-shadow:5px 5px 5px silver;
   position: relative;
 }
-.avatar{
-  flex: 0px;
-}
 /* container style */
 .page-wrapper {
   max-width: 88%;
@@ -164,6 +161,10 @@ main {
   font-size: 0.9rem;
 }
 /* feature first portfolio item style */
+.flex-item:first-child {
+  min-height: 400px;
+  flex-basis: 100%;
+}
 .flex-item:hover {
   background-color: rgba(0, 0, 0, 0.3);
 }
@@ -215,6 +216,9 @@ main {
 
 .pastel-puzzles {
   background-image: url("../images/youtube_channel.jpg");
+}
+.surf-report {
+  background-image: url("../images/resume_image.jpg");
 }
 /* media queries */
 @media screen and (max-width: 980px) {
