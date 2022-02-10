@@ -1,4 +1,3 @@
-# Coursework2.Adam: Professional Portfolio
 <h1 align="center">ADVANCED CSS: PORTFOLIO 🚩</h1>
 <br>
 <p align="center">
